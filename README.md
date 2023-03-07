@@ -11,6 +11,6 @@ I love 👨‍💻 (to work) with HTML/CSS, TypeScript, React, React Native, Vue
 
 💬 How to reach me:
 
-check out my website 🌍 alexm.space
+check out my website 🌍 http://www.alexm.space
 
 or send me an email to ✍  matyunin17@gmail.com
